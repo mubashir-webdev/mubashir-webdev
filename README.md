@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Muhammad Mubashir
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
+
 ### Full-Stack Web Developer | MERN Stack Developer
 
 **Building ideas into digital experiences.**

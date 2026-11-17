@@ -1,111 +1,180 @@
-# 👋 Hi, I'm Muhammad Mubashir
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<!-- ========================================= -->
+<!--       MUHAMMAD MUBASHIR - PROFILE          -->
+<!-- ========================================= -->
+
+<!-- ANIMATED HEADER -->
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Muhammad+Mubashir+%F0%9F%91%8B;Full-Stack+Web+Developer;MERN+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+
+  <h3>Building Ideas Into Digital Experiences</h3>
+
+  <p>
+    <b>Full-Stack Web Developer | MERN Stack Developer | Problem Solver</b>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=mubashir-webdev&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+
+## 👨‍💻 About Me
+
+Hello! I'm **Muhammad Mubashir**, a passionate Full-Stack Web Developer from Pakistan.
+
+I enjoy transforming ideas into modern, responsive, and user-friendly web applications. My interests include frontend development, backend engineering, database management, and building practical digital solutions.
+
+I believe in writing clean code, solving real-world problems, and continuously learning new technologies.
+
+- 🔭 Currently working on: **College Management System (FYP)**
+- 🌱 Currently improving: **React.js, Node.js & MERN Stack**
+- 💻 Interested in: **Full-Stack Development & UI/UX**
+- 🎯 Goal: Building scalable and meaningful digital products
+- 🤝 Open to: Collaboration, internships and exciting projects
+- 📍 Location: Pakistan
+
+---
+
+<!-- TECH STACK -->
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
 </p>
 
-### Full-Stack Web Developer | MERN Stack Developer
+### ⚙️ Backend Development
 
-**Building ideas into digital experiences.**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
 
-I'm Muhammad Mubashir, a passionate Web Developer from Pakistan who enjoys transforming ideas into modern, responsive, and user-friendly web applications.
+### 🗄️ Database
 
-I focus on building practical digital products, writing clean code, and continuously improving my development skills. I enjoy working across frontend and backend technologies to create meaningful web experiences.
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
 
-- 🔭 Currently working on: College Management System (Final Year Project)
-- 🌱 Focused on: React.js, Node.js and MERN Stack Development
-- 💻 Interested in: Full-Stack Development, UI/UX and modern web technologies
-- 🎯 Goal: Building scalable applications and becoming a better software developer
-- 🤝 Open to: Collaboration, internships and exciting development opportunities
-- 📍 Based in Pakistan
+### 🔧 Development Tools
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend Development**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+</p>
 
 ---
+
+<!-- FEATURED PROJECTS -->
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| College Management System | My Final Year Project focused on developing a digital college management solution. |
-| Personal Portfolio | My personal developer portfolio showcasing my skills, work and developer journey. |
+### 💻 College Management System
 
-🌐 **Portfolio:** [Visit My Portfolio](https://mubashir-webdev.vercel.app)
+My Final Year Project focused on developing a digital college management solution.
 
-💻 **GitHub:** [Explore My Repositories](https://github.com/mubashir-webdev)
+**Focus:** Web Development, Management Systems and Practical Problem Solving.
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my skills, projects, experience and development journey.
+
+🔗 [Visit My Portfolio](https://mubashir-webdev.vercel.app)
+
+### 🧩 Explore My Work
+
+🔗 [View All GitHub Repositories](https://github.com/mubashir-webdev?tab=repositories)
 
 ---
+
+<!-- GITHUB STATISTICS -->
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubashir-webdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-webdev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mubashir-webdev&theme=tokyonight&hide_border=true" width="75%" />
-</p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubashir-webdev&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=9333EA&text_color=C9D1D9&bg_color=0D1117&rank_icon=github" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-webdev&layout=compact&hide_border=true&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" />
+
+</div>
 
 ---
+
+<!-- GITHUB STREAK -->
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=mubashir-webdev&theme=tokyonight&hide_border=true&background=0D1117&ring=9333EA&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashir-webdev&bg_color=0D1117&color=38BDF8&line=9333EA&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- DEVELOPER JOURNEY -->
 
 ## 🎯 My Developer Journey
 
-I believe great developers are built through consistency, curiosity, and real-world problem solving.
+I believe becoming a great developer requires consistency, curiosity, creativity and practical experience.
 
-My journey is focused on:
+My current focus:
 
-- Building practical web applications.
-- Improving frontend and backend architecture.
-- Learning modern development practices.
-- Creating clean and accessible user interfaces.
-- Contributing to meaningful projects.
+- 🚀 Developing real-world web applications.
+- ⚡ Improving React.js and frontend architecture.
+- 🔐 Learning secure backend development.
+- 🗄️ Improving database design and management.
+- 🎨 Creating modern and responsive user interfaces.
+- 📚 Learning continuously through practical projects.
 
 ---
+
+<!-- CONNECT -->
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+I'm always interested in connecting with developers, exploring new opportunities, and collaborating on meaningful projects.
 
-<p align="left">
+<div align="center">
+
   <a href="https://github.com/mubashir-webdev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://mubashir-webdev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:mubashir.code@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+</div>
 
 ---
 
-<p align="center">
-  <b>✨ Building ideas into digital experiences.</b>
-</p>
+<!-- FOOTER -->
 
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
+<div align="center">
+
+  ### ✨ Code. Create. Innovate. Repeat.
+
+  **Building the future, one project at a time.**
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=120&section=footer" width="100%" />
+
+</div>
